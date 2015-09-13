@@ -1,4 +1,7 @@
 # Site settings
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
+
+kramdown:
+  input: GFM
