@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "/FirstStepsJekyll" # The subpath of your site.
+baseurl: "/SampleJekyllSite" # The subpath of your site.
 url: "https://windsource.github.io" # The base hostname and protocol for your site.
 
 # Build settings
